@@ -66,12 +66,6 @@ Python-powered monitoring tool for analyzing system logs and detecting anomalies
 
 ---
 
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harman2185&layout=compact&theme=default)
-
----
-
 ## 🌐 Connect With Me
 
 📧 Email: harmankaur225577@gmail.com  
